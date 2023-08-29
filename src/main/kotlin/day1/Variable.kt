@@ -43,3 +43,7 @@ fun main() {
 //    println(intFirst+charthired) 이거 안된다. int + string , int + char 안됨 컴파일 오류 발생
 //    당연하게 string + int = string
 }
+
+class Variable(){
+
+}
